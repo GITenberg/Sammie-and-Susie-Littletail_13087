@@ -1,0 +1,40 @@
+_repo: Sammie-and-Susie-Littletail_13087
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wisa, Louis
+    gutenberg_agent_id: '8138'
+    url: http://www.gutenberg.org/2009/agents/8138
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: Once upon a time there lived in a small house built underneath the ground
+  two curious little folk, with their father, their mother, their uncle and Jane Fuzzy-Wuzzy.
+  Jane Fuzzy-Wuzzy was the nurse, hired girl and cook, all in one, and the reason
+  she had such a funny name was because she was a funny cook. She had long hair, a
+  sharp nose, a very long tail and the brightest eyes you ever saw. She could stay
+  under water a long time, and was a fine swimmer.
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcc 'PZ'
+title: Sammie and Susie Littletail
+url: http://www.gutenberg.org/ebooks/13087
